@@ -1,0 +1,3 @@
+[submodule "final_project/english-words"]
+	path = final_project/english-words
+	url = https://github.com/dwyl/english-words/
